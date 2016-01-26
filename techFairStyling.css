@@ -32,7 +32,7 @@ form
 
 .radio
 {
-	font-size: 12px;
+	font-size: 18px;
 	font-color: #C0F5B7;
 }
 
@@ -95,6 +95,7 @@ a:hover
 
 .msg
 {
+	font-size:22px;
 	width:400px;
 	color:red;
 }
