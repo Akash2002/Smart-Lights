@@ -1,0 +1,100 @@
+form
+{
+	background-color: rgb(255,255,255);
+	
+	border-radius: 25px;
+	border-width: 5px;
+	margin-top: 100px;
+	margin-bottom: 500px;
+	margin-right: 400px;
+	margin-left: 400px;
+	padding-left: 300px;
+	padding-right: 300px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	height:100px;
+}
+.button 
+{
+	color:#FDFAFA;
+	border-radius: 6px;
+    background-color: #C5123E;
+    border-width: 2px;
+    border-style: solid;
+    font-size: 14px;
+}
+
+.button:hover
+{
+	border-color: #870509;
+	border-style: double;
+}
+
+.radio
+{
+	font-size: 12px;
+	font-color: #C0F5B7;
+}
+
+.header
+{
+	height: 758px;
+	background-color: #B7F5F4;
+	float:left;
+	width:390px;
+	border:2px solid #3366FF;
+    border-radius: 10px;
+    margin-top: -100px;
+}
+
+h4
+{
+	text-align: center;
+	font-size: 40px;
+	font-family: Lucida Console;
+	color: #3366FF;
+}
+
+p
+{
+	text-align: center;
+	font-family: Lucida Console;
+    font-size: 20px;
+    text-weight: normal;
+}
+
+img 
+{
+	padding: 100px 20px 80px 110px;
+}
+
+.top
+{	float: top;
+	width:1100px;
+	height:90px;
+	background-color: #B7F5F4;
+	border:2px solid #3366FF;
+	margin:-800px -250px 700px 400px ;
+	border-radius: 10px;
+}
+
+h2
+{
+	text-align: center;
+	font-size: 40px;
+	font-family: Lucida Console;
+	color: #3366FF;
+}
+
+a:hover
+{
+	text-weight:bold;
+	font-size: 22px;
+	color: #EE3A6A
+}
+
+.msg
+{
+	width:400px;
+	color:red;
+}
