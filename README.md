@@ -7,4 +7,4 @@ electronics and programming knowledge.
 
 ### Solution
 With the help of an Arduino and a simple LED light to test out the entire project with an Ethernet Shield to connect to the Internet, I used HTTP GET requests to 
-effectively turn off and on the LED from anywhere and at anytime by managing the flow of data using an SQL database and a PHP backend. Check out how the project works [here](https://www.youtube.com/watch?time_continue=24&v=NMVVKpt7PHo&feature=emb_logo)!
+effectively turn off and on the LED from anywhere and at anytime by managing the flow of data using an SQL database and a PHP backend. Check out how it works [here](https://www.youtube.com/watch?time_continue=24&v=NMVVKpt7PHo&feature=emb_logo)!
